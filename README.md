@@ -5,17 +5,7 @@ An implementation of bachelor templatate using LaTex
 
 需要安装Tex Live软件环境，最好安装最新版本
 
-### Windows
-
-安装方法参考https://blog.csdn.net/qq_38386316/article/details/80272396
-
-https://www.jianshu.com/p/a0754706ad33
-
-### Mac
-
-安装方法参考 https://www.jianshu.com/p/b1e3b029ded5
-
-
+Windows用户建议安装Tex live，Mac用户建议安装MacTex，然后安装IDE Tex stuido，并改编译器为XeLateX
 
 ## 2. 使用
 
